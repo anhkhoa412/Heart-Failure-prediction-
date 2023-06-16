@@ -38,7 +38,7 @@ df.shape
 # the data type of each column, and the memory usage of the DataFrame.
 df.info()
 
-
+server = app.server
 # In[5]:
 
 
